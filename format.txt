@@ -1,0 +1,5 @@
+320x240 frame size? fuck that.
+640x480 frame size
+15 frames per second
+photo-jpeg codec with med to high spatial quality setting
+no audio track (for final product)
